@@ -1,0 +1,1 @@
+export { CatFactBlock } from './ui';

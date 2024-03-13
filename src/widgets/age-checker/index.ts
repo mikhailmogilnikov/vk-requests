@@ -1,0 +1,1 @@
+export { AgeChecker } from './ui';
